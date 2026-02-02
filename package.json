@@ -1,0 +1,25 @@
+{
+  "name": "takumi",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "format": "oxfmt",
+    "format:check": "oxfmt --check"
+  },
+  "dependencies": {
+    "@nuxt/fonts": "^0.13.0",
+    "@takumi-rs/core": "^0.66.13",
+    "nuxt": "^4.3.0",
+    "nuxt-og-image": "^6.0.0-beta.9",
+    "vue": "^3.5.27",
+    "vue-router": "^4.6.4"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.28.0"
+  }
+}
