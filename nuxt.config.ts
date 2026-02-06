@@ -12,9 +12,6 @@ export default defineNuxtConfig({
   },
   css: ['~/assets/css/main.css'],
   ogImage: {
-    defaults: {
-      renderer: 'takumi'
-    },
     tailwindCss: '~/assets/css/main.css',
   }
 });
