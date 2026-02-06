@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@nuxt/fonts": "^0.13.0",
+    "@nuxtjs/seo": "^3.4.0",
     "@tailwindcss/vite": "^4.1.18",
     "@takumi-rs/core": "^0.66.13",
     "nuxt": "^4.3.0",
