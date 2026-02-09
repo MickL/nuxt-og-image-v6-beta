@@ -1,5 +1,5 @@
 <script setup lang="ts">
-defineOgImage("Test");
+defineOgImage("Fonts");
 </script>
 
 <template>
