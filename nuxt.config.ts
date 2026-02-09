@@ -10,8 +10,8 @@ export default defineNuxtConfig({
   vite: {
     plugins: [tailwindcss()],
   },
-  css: ['~/assets/css/main.css'],
+  css: ["~/assets/css/main.css"],
   ogImage: {
-    tailwindCss: '~/assets/css/main.css',
-  }
+    tailwindCss: "~/assets/css/main.css",
+  },
 });
