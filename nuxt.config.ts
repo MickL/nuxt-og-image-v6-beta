@@ -14,4 +14,17 @@ export default defineNuxtConfig({
   ogImage: {
     tailwindCss: "~/assets/css/main.css",
   },
+  fonts: {
+    defaults: {
+      subsets: ['latin'],
+    },
+    families: [
+      { name: 'Montserrat', weights: [400], global: true },
+      {
+        name: 'Merriweather',
+        src: '/fonts/merriweather.ttf',
+        global: true,
+      },
+    ],
+  },
 });
