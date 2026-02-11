@@ -1,5 +1,5 @@
 <script setup lang="ts">
-defineOgImage("Fonts");
+defineOgImage("WithComponents");
 </script>
 
 <template>
