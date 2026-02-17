@@ -5,7 +5,7 @@
   <div class="w-full p-[40px] flex-col">
     <OgTitle class="mb-[20px]">
       <!-- TODO: Slots dont work without wrapper-div -->
-      <div class="inline-flex">Hello world</div>
+      <div>Hello world</div>
     </OgTitle>
 
     <div class="text-2xl">
